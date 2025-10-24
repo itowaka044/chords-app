@@ -36,8 +36,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.myapplication.model.Chord
-import com.example.myapplication.model.User
+import com.example.myapplication.models.Chord
+import com.example.myapplication.models.User
 
 @Composable
 fun HomeScreen(

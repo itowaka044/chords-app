@@ -2,8 +2,8 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.example.myapplication.model.Chord
-import com.example.myapplication.model.User
+import com.example.myapplication.models.Chord
+import com.example.myapplication.models.User
 import com.example.myapplication.models.UserWithChords
 import com.example.myapplication.repository.UserRepository
 import kotlinx.coroutines.flow.MutableStateFlow

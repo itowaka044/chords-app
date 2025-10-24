@@ -7,7 +7,7 @@ import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import androidx.room.Transaction
 import androidx.room.Update
-import com.example.myapplication.model.User
+import com.example.myapplication.models.User
 import com.example.myapplication.models.UserWithChords
 import kotlinx.coroutines.flow.Flow
 

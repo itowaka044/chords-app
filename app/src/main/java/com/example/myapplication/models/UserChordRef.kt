@@ -3,8 +3,8 @@ package com.example.myapplication.models
 import androidx.room.Entity
 import androidx.room.ForeignKey
 import androidx.room.Index
-import com.example.myapplication.model.Chord
-import com.example.myapplication.model.User
+import com.example.myapplication.models.Chord
+import com.example.myapplication.models.User
 
 @Entity(
     primaryKeys = ["userId", "chordId"],

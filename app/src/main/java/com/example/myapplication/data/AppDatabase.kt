@@ -7,8 +7,8 @@ import androidx.room.RoomDatabase
 import com.example.myapplication.DAO.ChordDao
 import com.example.myapplication.DAO.UserChordRefDao
 import com.example.myapplication.DAO.UserDao
-import com.example.myapplication.model.Chord
-import com.example.myapplication.model.User
+import com.example.myapplication.models.Chord
+import com.example.myapplication.models.User
 import com.example.myapplication.models.UserChordRef
 
 @Database(

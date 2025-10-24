@@ -53,7 +53,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.myapplication.data.AppDatabase
-import com.example.myapplication.model.User
+import com.example.myapplication.models.User
 import com.example.myapplication.repository.UserRepository
 import com.example.myapplication.viewModel.UserChordViewModelFactory
 
